@@ -8,7 +8,7 @@
 ! [JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Sobre o Projeto
-este **Sistema de cadastro de Alunos** é uma aplicação FullStack desenvolvida como um projeto de revosão de conteúdo no curso de Desenvolvimento de Sistemas, oferecido pelo SENAI Sorocaba - Gaspar Ricardo Junior, ministrado pelo Prof.[Vedilson Prado](https://github.com/vedilsonprado).O objetivo do projeto é consolidar os conhecimento em criação de API RestFull, manipulação de banco de  Dados Relacional e integração com o Frontend usando JavaScript.
+este **Sistema de cadastro de Alunos** é uma aplicação FullStack desenvolvida como um projeto de revosão de conteúdo no curso de Desenvolvimento de Sistemas, oferecido pelo SENAI Sorocaba - Gaspar Ricardo Junior, ministrado pelo Prof. [Vedilson Prado](https://github.com/vedilsonprado).O objetivo do projeto é consolidar os conhecimento em criação de API RestFull, manipulação de banco de  Dados Relacional e integração com o Frontend usando JavaScript.
 
 A aplicação o gerenciamento completo (CRUD) de alunos, incluindo validações de regras de negócio e persistência de dados.
 
@@ -54,4 +54,5 @@ CREATE DATABASE db_cadastro_aluno;
 
 ---
 <p style="color: red;">Desenvolvedor(es)</p>
+
 [Victor Gabriel Braga do Nascimento](https://www.linkedin.com/in/victor-gabriel-braga-do-nascimento-4a8035369/)
