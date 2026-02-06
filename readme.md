@@ -47,10 +47,10 @@ CREATE DATABASE db_cadastro_aluno;
 - Acesse o index.html no navegador.
 
 ## Funcionalidades
-[x] Cadastrar Aluno
-[x] Listar Alunos
-[x] Editar Aluno
-[x] Excluir Aluno
+- [x] Cadastrar Aluno
+- [x] Listar Alunos
+- [x] Editar Aluno
+- [x] Excluir Aluno
 
 ---
 <p style="color: red;">Desenvolvedor(es)</p>
