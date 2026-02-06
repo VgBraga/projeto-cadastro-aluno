@@ -1,6 +1,6 @@
 // Função assíncrona que busca os dados no Backend e atualiza a tela
 async function carregarTabela() {
-    const response = await fetch(API_url); // Faz uma requisição GET para o servidor Java
+    const response = await fetch(API_URL); // Faz uma requisição GET para o servidor Java
     const alunos = await response.json(); // Converte a resposta bruta para um array de objetos JSON
 
     const tabela = document.getElementById('corpoTabela'); // Seleciona o corpo da tabela no HTML
